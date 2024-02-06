@@ -1,2 +1,2 @@
 # trial-projects
-various small projects
+set of various projects
